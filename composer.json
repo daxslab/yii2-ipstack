@@ -1,0 +1,21 @@
+{
+    "name": "daxslab/yii2-ipstack",
+    "description": "Locate and identify website visitors by IP address ",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"," ip"," ipstack"," geo"," geolocalization"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daxslab",
+            "email": "info@daxslab.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "daxslab\\ipstack\\": ""
+        }
+    }
+}
